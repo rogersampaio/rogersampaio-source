@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rogersampaio-source"
+    }
+  },
+  "defaultProject": "rogersampaio-source",
+  "cli": {
+    "analytics": "6f2f14e4-76f8-45ad-a6a8-6ee568cd5d99"
+  }
 }
