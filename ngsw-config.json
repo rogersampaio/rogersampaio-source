@@ -12,6 +12,10 @@
           "/manifest.webmanifest",
           "/*.css",
           "/*.js"
+        ],
+        "urls": [
+          "https://scripts.sirv.com/sirv.nospin.js",
+          "https://rogersampaio.sirv.com/me.png?w=44&h=44"
         ]
       }
     }, {
