@@ -44,6 +44,7 @@
   .avatarImage{
     border: 3px solid white;
     border-radius: 50%;
+    aspect-ratio: attr(width) / attr(height);
   }
 
   .toolbar #twitter-logo {
