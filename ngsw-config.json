@@ -15,7 +15,10 @@
         ],
         "urls": [
           "https://scripts.sirv.com/sirv.nospin.js",
-          "https://rogersampaio.sirv.com/me.png?w=44&h=44"
+          "https://rogersampaio.sirv.com/me.png?scale.option=fill&scale.width=44&scale.height=44",
+          "https://rogersampaio.sirv.com/me.png?scale.option=fill&scale.width=88&scale.height=88&sharpen=20&quality=100&png.optimize=true",
+          "https://rogersampaio.sirv.com/me.png?w=50&sharpen=20&q=100&png.optimize=true",
+          "https://rogersampaio.sirv.com/me.png?w=50&h=50"
         ]
       }
     }, {
